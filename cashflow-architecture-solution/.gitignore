@@ -1,0 +1,14 @@
+## Visual Studio / .NET Core
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Docker
+docker-compose.override.yml
